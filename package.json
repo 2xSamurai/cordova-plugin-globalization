@@ -14,8 +14,7 @@
       "wp7",
       "wp8",
       "windows",
-      "tizen",
-      "blackberry10"
+      "tizen"
     ]
   },
   "repository": {
@@ -37,8 +36,7 @@
     "cordova-wp7",
     "cordova-wp8",
     "cordova-windows",
-    "cordova-tizen",
-    "cordova-blackberry10"
+    "cordova-tizen"
   ],
   "scripts": {
     "test": "npm run eslint",
